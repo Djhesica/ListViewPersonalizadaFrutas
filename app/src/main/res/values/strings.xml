@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewPersonalizado</string>
+    <string name="preco">Preço</string>
+    <string name="preco_venda">Preco Venda</string>
+</resources>
